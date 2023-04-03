@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sim-project version="13.96" multi-file="no" uid="simp1a0ab259e90f4a9abe169bcf2d8747f3">
+  <meta>
+    <name>lab3_w64176_diagram_klas</name>
+    <authors>Natalia Pieńczak</authors>
+    <description />
+  </meta>
+  <counters models="1">
+    <entity-names>
+      <counter>
+        <item-type type-id="class" type="Class" />
+        <value>4</value>
+      </counter>
+      <counter>
+        <item-type stereotype="interface" type-id="uml-interface-classifier" type="Interface" />
+        <value>1</value>
+      </counter>
+    </entity-names>
+    <entity-ids>
+      <counter>
+        <item-type type-id="class" type="Class" />
+        <value>5</value>
+      </counter>
+      <counter>
+        <item-type type-id="property" type="Property" />
+        <value>20</value>
+      </counter>
+      <counter>
+        <item-type type-id="uml-interface-classifier" type="Interface" />
+        <value>2</value>
+      </counter>
+      <counter>
+        <item-type type-id="relationship" type="Association" />
+        <value>4</value>
+      </counter>
+      <counter>
+        <item-type type-id="realization" type="Realization" />
+        <value>9</value>
+      </counter>
+    </entity-ids>
+    <diagrams>
+      <counter>
+        <type>SoftwareIdeasModeler.Core.Diagrams.UmlDiagrams.UmlClassDiagram</type>
+        <value>1</value>
+      </counter>
+    </diagrams>
+    <fields>
+      <counter>
+        <type>SoftwareIdeasModeler.Core.DiagramItems.Fields.OperationField</type>
+        <value>28</value>
+      </counter>
+    </fields>
+  </counters>
+  <alias-groups />
+  <management uid="md-e6ffbe54a2144756904d2db6a6998441" name="" task-id-sequence="0">
+    <working-schedule uid="ws-4545a6d064f04c21a3da356b934a04bb" hours="8" monday="8" tuesday="8" wednesday="8" thursday="8" friday="8" saturday="0" sunday="0" />
+    <persons>
+      <person id="">
+        <first-name>Shana</first-name>
+        <last-name>Cian</last-name>
+        <role />
+        <e-mail />
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+        <working-schedule uid="ws-9916d11350134118ae063968d48cdc03" hours="8" monday="8" tuesday="8" wednesday="8" thursday="8" friday="8" saturday="0" sunday="0" />
+      </person>
+      <person id="">
+        <first-name>Shana</first-name>
+        <last-name>Cian</last-name>
+        <role />
+        <e-mail />
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+        <working-schedule uid="ws-e4e04748e08e40418655662fe11906cb" hours="8" monday="8" tuesday="8" wednesday="8" thursday="8" friday="8" saturday="0" sunday="0" />
+      </person>
+      <person id="">
+        <first-name>Natalia</first-name>
+        <last-name>Pieńczak</last-name>
+        <role />
+        <e-mail>w64176@student.wsiz.edu.pl</e-mail>
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+        <working-schedule uid="ws-c561af1cdb924637ad912c20fd2d3df7" hours="8" monday="8" tuesday="8" wednesday="8" thursday="8" friday="8" saturday="0" sunday="0" />
+      </person>
+      <person id="">
+        <first-name>Natalia</first-name>
+        <last-name>Pieńczak</last-name>
+        <role />
+        <e-mail>w64176@student.wsiz.edu.pl</e-mail>
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+      </person>
+    </persons>
+    <teams />
+    <sprints />
+    <projects />
+    <modules />
+    <tasks />
+    <to-dos />
+  </management>
+  <glossary id="glsr-3dd6ef9706d24019b0a8d5914fd8f7d8" />
+  <types default="UML">
+    <type-sets>
+      <type-set file="UmlTypes.xml" />
+    </type-sets>
+    <custom-types>
+      <parameters />
+      <types>
+        <type id="; ()" name="; ()" />
+        <type id=";" name=";" />
+        <type id="()" name="()" />
+        <type id="Class:32b9058dfeba47e0a775e3222cdd2b77" name="Klient" class-ref="32b9058dfeba47e0a775e3222cdd2b77" />
+      </types>
+    </custom-types>
+  </types>
+  <items />
+  <models>
+    <model id="p9d0cc51ac47546f997b5b1c50af3e739_654079623" name="Model1" namespace="" order-index="1">
+      <meta>
+        <authors>
+          <author>Shana Cian</author>
+        </authors>
+        <description />
+        <creation-date>04/01/2023 12:10:10</creation-date>
+        <change-date>01/01/0001 00:00:00</change-date>
+        <revision-count>0</revision-count>
+        <version />
+      </meta>
+      <abstract-items />
+      <sub-models />
+      <diagram type="uml-class" id="pa088fa35518b467890618b21dd325e04_817319843" name="ClassDiagram1" order-index="1" uid="" name-style="" auto-routed-paths="false" default-line-style="default" view-location="-145,0">
+        <style>
+          <background-color index="1" color="#FFFFFFFF" />
+          <background-color index="2" color="#FFFFFFFF" />
+          <background-type type="solid" />
+        </style>
+        <meta>
+          <authors>
+            <author>Shana Cian</author>
+          </authors>
+          <description />
+          <creation-date>04/01/2023 12:10:10</creation-date>
+          <change-date>04/03/2023 13:10:14</change-date>
+          <revision-count>0</revision-count>
+          <version />
+        </meta>
+        <abstract-items>
+          <item id="1b1a3fcebb3047f595df47f84195bb85" cid="PROP009" type="property" name="nazwa firmy" owner="665147956bc14848878a509f0d1efbca" creator="" creation-date="04/01/2023 12:14:24" visibility="private" />
+          <item id="4be6d5b926b34174ab775b2261965c23" cid="PROP003" type="property" name="ulubione danie" owner="32b9058dfeba47e0a775e3222cdd2b77" creator="" creation-date="04/01/2023 12:13:24" visibility="private" />
+          <item id="0b9ccb5b675048cc8d3f37f54108cb79" cid="PROP011" type="property" name="stany zapasów w restauracjach" owner="665147956bc14848878a509f0d1efbca" creator="" creation-date="04/01/2023 12:14:38" visibility="private" />
+          <item id="e70a446cef95402c98d01dd39e5acf14" cid="PROP004" type="property" name="zamówienia" owner="32b9058dfeba47e0a775e3222cdd2b77" creator="" creation-date="04/01/2023 12:13:32" visibility="private" />
+          <item id="d5768a0f1e044a5cbf323958b5ac00ca" cid="PROP005" type="property" name="nazwa lokalu" owner="e3a4c313aec04909b8ef231e52008372" creator="" creation-date="04/01/2023 12:13:41" visibility="private" />
+          <item id="9ff17d2270ae426fbcc15dd7f96cdcd4" cid="PROP002" type="property" name="hasło" owner="32b9058dfeba47e0a775e3222cdd2b77" creator="" creation-date="04/01/2023 12:13:20" visibility="private" />
+          <item id="fb33373c8d7b40568651aa77f3312606" cid="PROP008" type="property" name="zamówienia" owner="e3a4c313aec04909b8ef231e52008372" creator="" creation-date="04/01/2023 12:13:57" visibility="private" />
+          <item id="f49a4a909a9c46ddb3ba22c19ca9127e" cid="REA008" type="realization" creator="" creation-date="04/01/2023 12:47:12" from="665147956bc14848878a509f0d1efbca" to="f5af77e60b5e424f90f833c0d6a8e854" visibility="package" />
+          <item id="32b9058dfeba47e0a775e3222cdd2b77" cid="C001" type="class" name="Klient" creator="" creation-date="04/01/2023 12:10:18" visibility="undefined">
+            <owned-items />
+            <attributes>
+              <attribute id="a735ad4a0144c4bf0b8d1dbdb35805293846" cid="PROP001" name="nazwa użytkownika" creation-date="04/01/2023 12:13:05" property-ref="13a4bbd172a644b5bd2accae6c52ab43" />
+              <attribute id="a82ed826aecdc4fb6858337068dbb76fb115" cid="PROP002" name="hasło" creation-date="04/01/2023 12:13:20" property-ref="9ff17d2270ae426fbcc15dd7f96cdcd4" />
+              <attribute id="ad8df231ca8984ba8837cf584c10ffd76459" cid="PROP003" name="ulubione danie" creation-date="04/01/2023 12:13:24" property-ref="4be6d5b926b34174ab775b2261965c23" />
+              <attribute id="a059d33835ea8450b85a783cd7f95012d867" cid="PROP004" name="zamówienia" creation-date="04/01/2023 12:13:32" property-ref="e70a446cef95402c98d01dd39e5acf14" />
+            </attributes>
+            <operations>
+              <operation id="o7e6fcce911ed40df8c82ccd25c9e0c37301" cid="OP001" name="public List&lt;Restauracja&gt; pobierzRestauracje" creation-date="04/01/2023 12:16:08" type=";" type-id=";" visibility="public" />
+              <operation id="of79d335e09324746a66a5d7c0f779b19811" cid="OP002" name="public List&lt;Danie&gt; pobierzUlubioneDania" creation-date="04/01/2023 12:17:41" type=";" type-id=";" visibility="public" />
+              <operation id="o767bc6a35fea4cd998ed43375f016e64155" cid="OP004" name="public void dodajDoUlubionych" creation-date="04/01/2023 12:21:42" type=";" type-id=";" visibility="public">
+                <parameters>
+                  <parameter id="peacd4be5623e487dbd9a377e7e71b119" name="Danie danie" type="" type-id="" />
+                </parameters>
+              </operation>
+              <operation id="oc3620f49893d48cd87a4442061b8f9f1603" cid="OP005" name="public void zlozZamowienie" creation-date="04/01/2023 12:22:44" type=";" type-id=";" visibility="public">
+                <parameters>
+                  <parameter id="p98dd2b8e431c4188b87f6c834c76ba89" name="Zamowienie zamowienie" type="" type-id="" />
+                </parameters>
+              </operation>
+              <operation id="obf9826ff110f4814b82fa7cef5eecb45579" cid="OP007" name="public List&lt;Zamowienie&gt; pobierzZamowienia" creation-date="04/01/2023 12:23:28" type="" type-id="" visibility="public" />
+              <operation id="oab767683b134425493e8857b13a65094363" cid="OP023" name="public String getNazwaUzytkownika" creation-date="04/01/2023 12:36:01" type="; ()" type-id="; ()" visibility="public" />
+              <operation id="o06fecc9bd7d74cfe805c82110d93faca395" cid="OP024" name="public void setNazwaUzytkownika" creation-date="04/01/2023 12:36:15" type="; ()" type-id="; ()" visibility="public">
+                <parameters>
+                  <parameter id="p90258e59813c441190fa05474adabc5d" name="String nazwaUzytkownika" type="" type-id="" />
+                </parameters>
+              </operation>
+              <operation id="o8c560b24a5a74d75bd2c5c226fc54b8c715" cid="OP025" name="public String getHaslo" creation-date="04/01/2023 12:36:26" type="; ()" type-id="; ()" visibility="public" />
+              <operation id="o18098d2fd6a94a96b6afd1b5f363a498667" cid="OP026" name="public void setHaslo" creation-date="04/01/2023 12:36:42" type="; ()" type-id="; ()" visibility="public">
+                <parameters>
+                  <parameter id="pdbfd60df761f49dfaebe475c40cde0c7" name="String haslo" type="" type-id="" />
+                </parameters>
+              </operation>
+            </operations>
+          </item>
+          <item id="857a667f8bbd4e588bfba154eb0d74ad" cid="PROP010" type="property" name="lista restauracji do dostarczenia" owner="665147956bc14848878a509f0d1efbca" creator="" creation-date="04/01/2023 12:14:28" visibility="private" />
+          <item id="cfc2edf347694ba3920ef974bab1e654" cid="REA007" type="realization" creator="" creation-date="04/01/2023 12:47:07" from="e3a4c313aec04909b8ef231e52008372" to="f5af77e60b5e424f90f833c0d6a8e854" visibility="package" />
+          <item id="f9ad63b19775436ba219c702d30f0d72" cid="REA005" type="realization" creator="" creation-date="04/01/2023 12:46:55" from="32b9058dfeba47e0a775e3222cdd2b77" to="f5af77e60b5e424f90f833c0d6a8e854" visibility="package" />
+          <item id="3ea2c79a2a984f5abefcc28e241dd217" cid="PROP006" type="property" name="menu" owner="e3a4c313aec04909b8ef231e52008372" creator="" creation-date="04/01/2023 12:13:49" visibility="private" />
+          <item id="b2fb17c1adf944d187725409fee614e2" cid="PROP007" type="property" name="stan zapasów" owner="e3a4c313aec04909b8ef231e52008372" creator="" creation-date="04/01/2023 12:13:52" visibility="private" />
+          <item id="13a4bbd172a644b5bd2accae6c52ab43" cid="PROP001" type="property" name="nazwa użytkownika" owner="32b9058dfeba47e0a775e3222cdd2b77" creator="" creation-date="04/01/2023 12:13:05" visibility="private" />
+          <item id="f5af77e60b5e424f90f833c0d6a8e854" cid="I001" type="uml-interface-classifier" name="Użytkownik " creator="" creation-date="04/01/2023 12:34:52" visibility="undefined">
+            <stereotypes>
+              <stereotype name="interface" />
+            </stereotypes>
+            <stereotype-instances>
+              <stereotype id="f5af77e60b5e424f90f833c0d6a8e854_interface_c" type="interface" ref="" />
+            </stereotype-instances>
+            <operations>
+              <operation id="oab767683b134425493e8857b13a65094363" cid="OP023" name="public String getNazwaUzytkownika" creation-date="04/01/2023 12:36:01" type="; ()" type-id="; ()" visibility="public" />
+              <operation id="o06fecc9bd7d74cfe805c82110d93faca395" cid="OP024" name="public void setNazwaUzytkownika" creation-date="04/01/2023 12:36:15" type="; ()" type-id="; ()" visibility="public">
+                <parameters>
+                  <parameter id="p90258e59813c441190fa05474adabc5d" name="String nazwaUzytkownika" type="" type-id="" />
+                </parameters>
+              </operation>
+              <operation id="o8c560b24a5a74d75bd2c5c226fc54b8c715" cid="OP025" name="public String getHaslo" creation-date="04/01/2023 12:36:26" type="; ()" type-id="; ()" visibility="public" />
+              <operation id="o18098d2fd6a94a96b6afd1b5f363a498667" cid="OP026" name="public void setHaslo" creation-date="04/01/2023 12:36:42" type="; ()" type-id="; ()" visibility="public">
+                <parameters>
+                  <parameter id="pdbfd60df761f49dfaebe475c40cde0c7" name="String haslo" type="" type-id="" />
+                </parameters>
+              </operation>
+            </operations>
+          </item>
+          <item id="e3a4c313aec04909b8ef231e52008372" cid="C002" type="class" name="Restaurator " creator="" creation-date="04/01/2023 12:10:24" visibility="undefined">
+            <owned-items />
+            <attributes>
+              <attribute id="a1c885fe079794b09baa36924d0759bc8163" cid="PROP005" name="nazwa lokalu" creation-date="04/01/2023 12:13:41" property-ref="d5768a0f1e044a5cbf323958b5ac00ca" />
+              <attribute id="a1f6648815ac6483d90b2db92caf243cd315" cid="PROP006" name="menu" creation-date="04/01/2023 12:13:49" property-ref="3ea2c79a2a984f5abefcc28e241dd217" />
+              <attribute id="ab83a893fb9f3455482357baac24753aa251" cid="PROP007" name="stan zapasów" creation-date="04/01/2023 12:13:52" property-ref="b2fb17c1adf944d187725409fee614e2" />
+              <attribute id="a6788ab1f33c44f45ac0174a7b2fcca35299" cid="PROP008" name="zamówienia" creation-date="04/01/2023 12:13:57" property-ref="fb33373c8d7b40568651aa77f3312606" />
+            </attributes>
+            <operations>
+              <operation id="o14d9711f783e4cc5900abb106a743938299" cid="OP011" name="public void dodajMenu" creation-date="04/01/2023 12:26:01" type=";" type-id=";" visibility="public">
+                <parameters>
+                  <parameter id="pf30fe1d31b754e27882066c3dc3b023b" name="Menu menu" type="" type-id="" />
+                </parameters>
+              </operation>
+              <operation id="o6ac3f09cc2534550b94964fd11842642555" cid="OP012" name="public void usunMenu" creation-date="04/01/2023 12:26:09" type=";" type-id=";" visibility="public">
+                <parameters>
+                  <parameter id="p75584f58490343d198c74dc7c98fb27c" name="Menu menu" type="" type-id="" />
+                </parameters>
+              </operation>
+              <operation id="of9e34c152bc34f63a7d30d41258d3dc8611" cid="OP013" name="public List&lt;Zamowienie&gt; pobierzZamowienia" creation-date="04/01/2023 12:26:28" type=";" type-id=";" visibility="public">
+                <parameters>
+                  <parameter id="p1c20cf5ee4fe479d9ca449010763ea39" name="Restauracja restauracja" type="" type-id="" />
+                </parameters>
+              </operation>
+              <operation id="o1a2918e1415946adab29fa7080e04018667" cid="OP014" name="public List&lt;Dostawca&gt; pobierzDostawcow" creation-date="04/01/2023 12:26:33" type=";" type-id=";" visibility="public" />
+              <operation id="o7c377f131fb444218f56cb6f6245dc5e779" cid="OP015" name="public void aktualizujStanMagazynowy" creation-date="04/01/2023 12:26:54" type=";" type-id=";" visibility="public">
+                <parameters>
+                  <parameter id="p760bb859c2714d338032ceeab405cec3" name="Dostawca dostawca" type="" type-id="" />
+                  <parameter id="p34a8b7175f374f6ea5d2c24404270d8d" name="StanMagazynowy stanMagazynowy" type="" type-id="" />
+                </parameters>
+              </operation>
+              <operation id="oab767683b134425493e8857b13a65094363" cid="OP023" name="public String getNazwaUzytkownika" creation-date="04/01/2023 12:36:01" type="; ()" type-id="; ()" visibility="public" />
+              <operation id="o06fecc9bd7d74cfe805c82110d93faca395" cid="OP024" name="public void setNazwaUzytkownika" creation-date="04/01/2023 12:36:15" type="; ()" type-id="; ()" visibility="public">
+                <parameters>
+                  <parameter id="p90258e59813c441190fa05474adabc5d" name="String nazwaUzytkownika" type="" type-id="" />
+                </parameters>
+              </operation>
+              <operation id="o8c560b24a5a74d75bd2c5c226fc54b8c715" cid="OP025" name="public String getHaslo" creation-date="04/01/2023 12:36:26" type="; ()" type-id="; ()" visibility="public" />
+              <operation id="o18098d2fd6a94a96b6afd1b5f363a498667" cid="OP026" name="public void setHaslo" creation-date="04/01/2023 12:36:42" type="; ()" type-id="; ()" visibility="public">
+                <parameters>
+                  <parameter id="pdbfd60df761f49dfaebe475c40cde0c7" name="String haslo" type="" type-id="" />
+                </parameters>
+              </operation>
+            </operations>
+          </item>
+          <item id="665147956bc14848878a509f0d1efbca" cid="C003" type="class" name="Dostawca" creator="" creation-date="04/01/2023 12:10:36" visibility="undefined">
+            <owned-items />
+            <attributes>
+              <attribute id="afcd4272595774e228798f90481eabc82835" cid="PROP009" name="nazwa firmy" creation-date="04/01/2023 12:14:24" property-ref="1b1a3fcebb3047f595df47f84195bb85" />
+              <attribute id="a1de0ad27718a4da18d42aa0582545dcb971" cid="PROP010" name="lista restauracji do dostarczenia" creation-date="04/01/2023 12:14:28" property-ref="857a667f8bbd4e588bfba154eb0d74ad" />
+              <attribute id="a6d3319e34726474282742c148afd8106835" cid="PROP011" name="stany zapasów w restauracjach" creation-date="04/01/2023 12:14:38" property-ref="0b9ccb5b675048cc8d3f37f54108cb79" />
+            </attributes>
+            <operations>
+              <operation id="o8b73c0d489724e288b652ae343f66af1427" cid="OP008" name="public void aktualizujStanMagazynowy" creation-date="04/01/2023 12:24:34" type=";" type-id=";" visibility="public">
+                <parameters>
+                  <parameter id="p256d9a3cb9554c3ea8079e234320b2cc" name="Dostawca dostawca" type="" type-id="" />
+                  <parameter id="pf17a47d852bb4b898b214df700072c06" name="StanMagazynowy stanMagazynowy" type="" type-id="" />
+                </parameters>
+              </operation>
+              <operation id="of250c79b9a304144973a4114f4a1f77411" cid="OP009" name="public List&lt;Restauracja&gt; pobierzRestauracje" creation-date="04/01/2023 12:24:49" type=";" type-id=";" visibility="public" />
+              <operation id="oab767683b134425493e8857b13a65094363" cid="OP023" name="public String getNazwaUzytkownika" creation-date="04/01/2023 12:36:01" type="; ()" type-id="; ()" visibility="public" />
+              <operation id="o06fecc9bd7d74cfe805c82110d93faca395" cid="OP024" name="public void setNazwaUzytkownika" creation-date="04/01/2023 12:36:15" type="; ()" type-id="; ()" visibility="public">
+                <parameters>
+                  <parameter id="p90258e59813c441190fa05474adabc5d" name="String nazwaUzytkownika" type="" type-id="" />
+                </parameters>
+              </operation>
+              <operation id="o8c560b24a5a74d75bd2c5c226fc54b8c715" cid="OP025" name="public String getHaslo" creation-date="04/01/2023 12:36:26" type="; ()" type-id="; ()" visibility="public" />
+              <operation id="o18098d2fd6a94a96b6afd1b5f363a498667" cid="OP026" name="public void setHaslo" creation-date="04/01/2023 12:36:42" type="; ()" type-id="; ()" visibility="public">
+                <parameters>
+                  <parameter id="pdbfd60df761f49dfaebe475c40cde0c7" name="String haslo" type="" type-id="" />
+                </parameters>
+              </operation>
+            </operations>
+          </item>
+        </abstract-items>
+        <layer id="f040245d52b04b0bbdb4dbba942d5185" name="Default" visible="true" enabled="true" locked="false">
+          <item id="32b9058dfeba47e0a775e3222cdd2b77" iid="f8815d813762485dadae1285bfde9983" show-fields="true" creation-date="04/01/2023 12:10:18" order-index="0" type="entity">
+            <layout ax="-52" ay="84" awidth="356" aheight="306" x="-52" y="84" width="140" height="160" />
+            <classifier />
+            <class />
+          </item>
+          <item id="e3a4c313aec04909b8ef231e52008372" iid="6f2f88fe181447909a78c6f098ac5111" show-fields="true" creation-date="04/01/2023 12:10:24" order-index="1" type="entity">
+            <layout ax="486" ay="463" awidth="354" aheight="342" x="486" y="463" width="140" height="160" />
+            <classifier />
+            <class />
+          </item>
+          <item id="665147956bc14848878a509f0d1efbca" iid="2162311e924a44468d0f104544acccd4" show-fields="true" creation-date="04/01/2023 12:10:36" order-index="2" type="entity">
+            <layout ax="876" ay="57" awidth="354" aheight="248" x="876" y="57" width="140" height="160" />
+            <classifier />
+            <class />
+          </item>
+          <item id="f5af77e60b5e424f90f833c0d6a8e854" iid="685ca9f1b785452bb03d0859198340b8" creation-date="04/01/2023 12:34:52" order-index="4" type="entity">
+            <layout ax="449" ay="84" awidth="307" aheight="173" x="449" y="84" width="191" height="173" />
+            <classifier />
+            <class />
+          </item>
+          <item id="f9ad63b19775436ba219c702d30f0d72" iid="36e570cde6d24b3e8fbc61442e33e2f7" creation-date="04/01/2023 12:46:55" order-index="5" type="relation">
+            <layout line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="304" y1="226" x2="449" y2="186" start-border-pos="0.366" end-border-pos="0.852601156069364" start-local-pos="116" end-local-pos="102" name-position="0,20">
+              <points>
+                <point x="304" y="226" />
+                <point x="449" y="186" />
+              </points>
+            </layout>
+            <relation from="32b9058dfeba47e0a775e3222cdd2b77" from-iid="f8815d813762485dadae1285bfde9983" to="f5af77e60b5e424f90f833c0d6a8e854" to-iid="685ca9f1b785452bb03d0859198340b8" />
+          </item>
+          <item id="cfc2edf347694ba3920ef974bab1e654" iid="b553966620cb425eb1d4a5914c1ce34f" creation-date="04/01/2023 12:47:07" order-index="7" type="relation">
+            <layout line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="568" y1="463" x2="694" y2="257" start-border-pos="0.057909604519774" end-border-pos="0.550488599348534" start-local-pos="82" end-local-pos="245" name-position="0,20">
+              <points>
+                <point x="568" y="463" />
+                <point x="694" y="257" />
+              </points>
+            </layout>
+            <relation from="e3a4c313aec04909b8ef231e52008372" from-iid="6f2f88fe181447909a78c6f098ac5111" to="f5af77e60b5e424f90f833c0d6a8e854" to-iid="685ca9f1b785452bb03d0859198340b8" />
+          </item>
+          <item id="f49a4a909a9c46ddb3ba22c19ca9127e" iid="cfbbb9504dc543128541c3d504aa7963" creation-date="04/01/2023 12:47:12" order-index="8" type="relation">
+            <layout line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="876" y1="242" x2="756" y2="184" start-border-pos="0.813583815028902" end-border-pos="0.394508670520231" start-local-pos="129" end-local-pos="100" name-position="0,20">
+              <points>
+                <point x="876" y="242" />
+                <point x="756" y="184" />
+              </points>
+            </layout>
+            <relation from="665147956bc14848878a509f0d1efbca" from-iid="2162311e924a44468d0f104544acccd4" to="f5af77e60b5e424f90f833c0d6a8e854" to-iid="685ca9f1b785452bb03d0859198340b8" />
+          </item>
+        </layer>
+      </diagram>
+    </model>
+  </models>
+</sim-project>
